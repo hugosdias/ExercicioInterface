@@ -1,0 +1,15 @@
+/home/hugo/Documentos/contrato/bin/Debug/net6.0/contrato
+/home/hugo/Documentos/contrato/bin/Debug/net6.0/contrato.deps.json
+/home/hugo/Documentos/contrato/bin/Debug/net6.0/contrato.runtimeconfig.json
+/home/hugo/Documentos/contrato/bin/Debug/net6.0/contrato.dll
+/home/hugo/Documentos/contrato/bin/Debug/net6.0/ref/contrato.dll
+/home/hugo/Documentos/contrato/bin/Debug/net6.0/contrato.pdb
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.csproj.AssemblyReference.cache
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.AssemblyInfoInputs.cache
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.AssemblyInfo.cs
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.csproj.CoreCompileInputs.cache
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.dll
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/ref/contrato.dll
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.pdb
+/home/hugo/Documentos/contrato/obj/Debug/net6.0/contrato.genruntimeconfig.cache

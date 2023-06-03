@@ -1,5 +1,3 @@
-
-
 namespace contrato
 {
     public interface IOnlinePaymentService

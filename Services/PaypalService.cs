@@ -1,4 +1,3 @@
-
 namespace contrato
 {
     public class PaypalService : IOnlinePaymentService
